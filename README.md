@@ -9,6 +9,16 @@
 >
 > `token-template` is a modern and minimalistic Astro + Tailwind CSS starter designed for developers and creators. With a sleek black-and-white terminal-inspired design, it features support for Markdown (MD), MDX, RSS feeds, sitemaps, and fully static content, making it perfect for personal portfolios and blogs.
 
+## Deploy
+
+One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and serves `dist/` automatically).
+
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Ftoken-template&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
+
+## Preview
+
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://token-template.edgeone.app/)
+
 ## 🌟 Features
 
 > **token-template** features intro:
@@ -41,13 +51,13 @@ npm run dev
 
 > Here's a working and expected screenshot of **token-template**
 
-| Landing Page                              |
-| ----------------------------------------- |
+| Landing Page                    |
+| ------------------------------- |
 | ![Demo](/public/screenshot.png) |
 
-| [Lighthouse Results](https://pagespeed.web.dev/analysis/https-token-template-deno-dev/o4lgrcn8pd?form_factor=desktop)                              |
-| ----------------------------------------- |
-| ![results](/public/lighthouse.png) |
+| [Lighthouse Results](https://pagespeed.web.dev/analysis/https-token-template-deno-dev/o4lgrcn8pd?form_factor=desktop) |
+| --------------------------------------------------------------------------------------------------------------------- |
+| ![results](/public/lighthouse.png)                                                                                    |
 
 ---
 
