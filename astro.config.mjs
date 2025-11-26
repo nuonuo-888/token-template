@@ -9,7 +9,7 @@ import edgeoneAdapter from "@edgeone/astro";
 export default defineConfig({
   output: "static",
   adapter: edgeoneAdapter(),
-  site: "https://token-template.deno.dev",
+  site: "https://token-template.edgeone.app/",
   integrations: [mdx(), sitemap(), tailwind()],
   markdown: {
     shikiConfig: {
